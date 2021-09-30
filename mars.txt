@@ -8,3 +8,5 @@ Why not two changes?
 The passage of time
 it's snowing on mt fuji
 I cannot haiku
+
+I've added a new line
